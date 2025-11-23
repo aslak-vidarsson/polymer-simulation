@@ -1,5 +1,7 @@
 # Monte Carlo Simulation of Polymer Folding
 
+The results can be found in **FINAL_DRAFT_PROJECT1.ipynb**.
+
 This project focuses on simulating polymer folding and dynamics using Monte Carlo methods. The goal is to study how polymers change their conformation under different temperatures and interaction potentials, and to estimate their energy and diameter in various states.
 
 ## Project Overview
