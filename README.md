@@ -1,6 +1,6 @@
 # Monte Carlo Simulation of Polymer Folding
 
-The results can be found in **FINAL_DRAFT_PROJECT1.ipynb**.
+The results can be found in **FINAL_DRAFT_PROJECT1.ipynb**. This was a two-week project in the course "Introduction to numerical calculations" at NTNU by Aslak Vidarsson Homme and Hallstein Olesønn Hagaseth, both students at NTNU.
 
 This project focuses on simulating polymer folding and dynamics using Monte Carlo methods. The goal is to study how polymers change their conformation under different temperatures and interaction potentials, and to estimate their energy and diameter in various states.
 
